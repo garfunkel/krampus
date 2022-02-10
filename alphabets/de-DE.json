@@ -1,0 +1,270 @@
+{
+	"code": "de-DE",
+	"name": "German",
+	"vowels": [
+		{
+			"ipa": "øː",
+			"x-sampa": "2:",
+			"desc": "long close-mid front rounded\n                            vowel"
+		},
+		{
+			"ipa": "ɐ",
+			"x-sampa": "6",
+			"desc": "near-open central vowel"
+		},
+		{
+			"ipa": "ɐ̯",
+			"x-sampa": "6_^",
+			"desc": "non-syllabic near-open central\n                            vowel"
+		},
+		{
+			"ipa": "œ",
+			"x-sampa": "9",
+			"desc": "open-mid front rounded vowel"
+		},
+		{
+			"ipa": "ə",
+			"x-sampa": "@",
+			"desc": "mid central vowel"
+		},
+		{
+			"ipa": "a",
+			"x-sampa": "a",
+			"desc": "open front unrounded vowel"
+		},
+		{
+			"ipa": "a:",
+			"x-sampa": "a:",
+			"desc": "long open front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "aɪ",
+			"x-sampa": "aI",
+			"desc": "diphthong"
+		},
+		{
+			"ipa": "aʊ",
+			"x-sampa": "aU",
+			"desc": "diphthong"
+		},
+		{
+			"ipa": "ɑ̃",
+			"x-sampa": "A~",
+			"desc": "nasal open back unrounded\n                            vowel"
+		},
+		{
+			"ipa": "e:",
+			"x-sampa": "e:",
+			"desc": "long close-mid front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "ɛ",
+			"x-sampa": "E",
+			"desc": "open-mid front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "ɛ̃",
+			"x-sampa": "E~",
+			"desc": "nasal open-mid front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "i:",
+			"x-sampa": "i:",
+			"desc": "long close front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "ɪ",
+			"x-sampa": "I",
+			"desc": "near-close near-front unrounded\n                                vowel"
+		},
+		{
+			"ipa": "o:",
+			"x-sampa": "o:",
+			"desc": "long close-mid back rounded\n                            vowel"
+		},
+		{
+			"ipa": "ɔ",
+			"x-sampa": "O",
+			"desc": "open-mid back rounded vowel"
+		},
+		{
+			"ipa": "ɔ̃",
+			"x-sampa": "O~",
+			"desc": "nasal open-mid back rounded\n                            vowel"
+		},
+		{
+			"ipa": "ɔʏ",
+			"x-sampa": "OY",
+			"desc": "diphthong"
+		},
+		{
+			"ipa": "u:",
+			"x-sampa": "u:",
+			"desc": "long close back rounded\n                            vowel"
+		},
+		{
+			"ipa": "ʊ",
+			"x-sampa": "U",
+			"desc": "near-close near-back rounded\n                            vowel"
+		},
+		{
+			"ipa": "y:",
+			"x-sampa": "y:",
+			"desc": "long close front rounded\n                            vowel"
+		},
+		{
+			"ipa": "ʏ",
+			"x-sampa": "Y",
+			"desc": "near-close near-front rounded\n                            vowel"
+		}
+	],
+	"consonants": [
+		{
+			"ipa": "ʔ",
+			"x-sampa": "?",
+			"desc": "glottal stop"
+		},
+		{
+			"ipa": "b",
+			"x-sampa": "b",
+			"desc": "voiced bilabial plosive"
+		},
+		{
+			"ipa": "d",
+			"x-sampa": "d",
+			"desc": "voiced alveolar plosive"
+		},
+		{
+			"ipa": "ç",
+			"x-sampa": "C",
+			"desc": "voiceless palatal fricative"
+		},
+		{
+			"ipa": "d͡ʒ",
+			"x-sampa": "dZ",
+			"desc": "voiced postalveolar\n                            affricate"
+		},
+		{
+			"ipa": "f",
+			"x-sampa": "f",
+			"desc": "Voiceless labiodental\n                            fricative"
+		},
+		{
+			"ipa": "g",
+			"x-sampa": "g",
+			"desc": "Voiced velar plosive"
+		},
+		{
+			"ipa": "h",
+			"x-sampa": "h",
+			"desc": "Voiceless glottal fricative"
+		},
+		{
+			"ipa": "j",
+			"x-sampa": "j",
+			"desc": "Voiceless glottal fricative"
+		},
+		{
+			"ipa": "k",
+			"x-sampa": "k",
+			"desc": "Voiceless velar plosive"
+		},
+		{
+			"ipa": "l",
+			"x-sampa": "l",
+			"desc": "Alveolar lateral approximant"
+		},
+		{
+			"ipa": "m",
+			"x-sampa": "m",
+			"desc": "Bilabial nasal"
+		},
+		{
+			"ipa": "n",
+			"x-sampa": "n",
+			"desc": "Alveolar nasal"
+		},
+		{
+			"ipa": "ŋ",
+			"x-sampa": "N",
+			"desc": "Velar nasal"
+		},
+		{
+			"ipa": "p",
+			"x-sampa": "p",
+			"desc": "Voiceless bilabial plosive"
+		},
+		{
+			"ipa": "p͡f",
+			"x-sampa": "pf",
+			"desc": "Voiceless labiodental\n                            affricate"
+		},
+		{
+			"ipa": "ʀ",
+			"x-sampa": "R",
+			"desc": "Uvular trill"
+		},
+		{
+			"ipa": "s",
+			"x-sampa": "s",
+			"desc": "voiceless alveolar fricative"
+		},
+		{
+			"ipa": "ʃ",
+			"x-sampa": "S",
+			"desc": "Voiceless postalveolar\n                            fricative"
+		},
+		{
+			"ipa": "t",
+			"x-sampa": "t",
+			"desc": "Voiceless alveolar plosive"
+		},
+		{
+			"ipa": "t͡s",
+			"x-sampa": "Ts",
+			"desc": "Voiceless alveolar affricate"
+		},
+		{
+			"ipa": "t͡ʃ",
+			"x-sampa": "tS",
+			"desc": "Voiceless postalveolar\n                            affricate"
+		},
+		{
+			"ipa": "v",
+			"x-sampa": "v",
+			"desc": "Voiced labiodental fricative"
+		},
+		{
+			"ipa": "x",
+			"x-sampa": "x",
+			"desc": "Voiceless velar fricative"
+		},
+		{
+			"ipa": "z",
+			"x-sampa": "z",
+			"desc": "Voiced alveolar fricative"
+		},
+		{
+			"ipa": "ʒ",
+			"x-sampa": "Z",
+			"desc": "Voiced postalveolar\n                            fricative"
+		}
+	],
+	"symbols": [
+		{
+			"ipa": "ˈ",
+			"x-sampa": "\"",
+			"desc": "primary stress"
+		},
+		{
+			"ipa": "ˌ",
+			"x-sampa": "%",
+			"desc": "secondary stress"
+		},
+		{
+			"ipa": ".",
+			"x-sampa": ".",
+			"desc": "syllable boundary"
+		}
+	]
+}

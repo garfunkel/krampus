@@ -1,0 +1,175 @@
+{
+	"code": "es-US",
+	"name": "Spanish, US",
+	"vowels": [
+		{
+			"ipa": "a",
+			"x-sampa": "a",
+			"desc": "central open unrounded vowel"
+		},
+		{
+			"ipa": "e",
+			"x-sampa": "e",
+			"desc": "close-mid front unrounded vowel"
+		},
+		{
+			"ipa": "i",
+			"x-sampa": "i",
+			"desc": "close front unrounded vowel"
+		},
+		{
+			"ipa": "o",
+			"x-sampa": "o",
+			"desc": "close-mid back rounded vowel"
+		},
+		{
+			"ipa": "u",
+			"x-sampa": "u",
+			"desc": "close back rounded vowel"
+		}
+	],
+	"consonants": [
+		{
+			"ipa": "ɾ",
+			"x-sampa": "4",
+			"desc": "alveolar flap"
+		},
+		{
+			"ipa": "b",
+			"x-sampa": "b",
+			"desc": "voiced bilabial plosive"
+		},
+		{
+			"ipa": "β",
+			"x-sampa": "B",
+			"desc": "voiced bilabial fricative"
+		},
+		{
+			"ipa": "d",
+			"x-sampa": "d",
+			"desc": "voiced alveolar plosive"
+		},
+		{
+			"ipa": "ð",
+			"x-sampa": "D",
+			"desc": "voiced dental fricative"
+		},
+		{
+			"ipa": "f",
+			"x-sampa": "f",
+			"desc": "voiceless labiodental\n                            fricative"
+		},
+		{
+			"ipa": "g",
+			"x-sampa": "g",
+			"desc": "voiced velar plosive"
+		},
+		{
+			"ipa": "ɣ",
+			"x-sampa": "G",
+			"desc": "voiced velar fricative"
+		},
+		{
+			"ipa": "j",
+			"x-sampa": "j",
+			"desc": "palatal approximant"
+		},
+		{
+			"ipa": "ʝ",
+			"x-sampa": "j\\",
+			"desc": "voiced palatal fricative"
+		},
+		{
+			"ipa": "k",
+			"x-sampa": "k",
+			"desc": "voiceless velar plosive"
+		},
+		{
+			"ipa": "l",
+			"x-sampa": "l",
+			"desc": "lateral alveolar approximant"
+		},
+		{
+			"ipa": "m",
+			"x-sampa": "m",
+			"desc": "bilabial nasal"
+		},
+		{
+			"ipa": "n",
+			"x-sampa": "n",
+			"desc": "alveolar nasal"
+		},
+		{
+			"ipa": "ɲ",
+			"x-sampa": "J",
+			"desc": "palatal nasal"
+		},
+		{
+			"ipa": "ŋ",
+			"x-sampa": "N",
+			"desc": "velar nasal"
+		},
+		{
+			"ipa": "p",
+			"x-sampa": "p",
+			"desc": "voiceless bilabial plosive"
+		},
+		{
+			"ipa": "r",
+			"x-sampa": "r",
+			"desc": "alveolar trill"
+		},
+		{
+			"ipa": "s",
+			"x-sampa": "s",
+			"desc": "voiceless alveolar fricative"
+		},
+		{
+			"ipa": "ʃ",
+			"x-sampa": "S",
+			"desc": "voiceless postalveolar\n                            fricative"
+		},
+		{
+			"ipa": "t",
+			"x-sampa": "t",
+			"desc": "voiceless alveolar plosive"
+		},
+		{
+			"ipa": "t͡ʃ",
+			"x-sampa": "tS",
+			"desc": "voiceless postalveolar\n                            affricate"
+		},
+		{
+			"ipa": "w",
+			"x-sampa": "w",
+			"desc": "labial-velar approximant"
+		},
+		{
+			"ipa": "x",
+			"x-sampa": "x",
+			"desc": "voiceless velar fricative"
+		},
+		{
+			"ipa": "z",
+			"x-sampa": "z",
+			"desc": "voiced alveolar fricative"
+		}
+	],
+	"symbols": [
+		{
+			"ipa": "ˈ",
+			"x-sampa": "\"",
+			"desc": "primary stress"
+		},
+		{
+			"ipa": "ˌ",
+			"x-sampa": "%",
+			"desc": "secondary stress"
+		},
+		{
+			"ipa": ".",
+			"x-sampa": ".",
+			"desc": "syllable boundary"
+		}
+	]
+}

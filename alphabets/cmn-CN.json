@@ -1,0 +1,272 @@
+{
+	"code": "cmn-CN",
+	"name": "Chinese, Mandarin",
+	"vowels": [
+		{
+			"pinyin": "e",
+			"ipa": "ɤ",
+			"x-sampa": "7",
+			"desc": "close-mid back unrounded vowel"
+		},
+		{
+			"pinyin": "e",
+			"ipa": "ə",
+			"x-sampa": "@",
+			"desc": "mid central vowel"
+		},
+		{
+			"pinyin": "a",
+			"ipa": "a",
+			"x-sampa": "a",
+			"desc": "open front unrounded vowel"
+		},
+		{
+			"pinyin": "ai",
+			"ipa": "aɪ",
+			"x-sampa": "aI",
+			"desc": "diphthong"
+		},
+		{
+			"pinyin": "ao",
+			"ipa": "aʊ",
+			"x-sampa": "aU",
+			"desc": "diphthong"
+		},
+		{
+			"pinyin": "ei",
+			"ipa": "eɪ",
+			"x-sampa": "e",
+			"desc": "diphthong"
+		},
+		{
+			"pinyin": "e",
+			"ipa": "ɛ",
+			"x-sampa": "E",
+			"desc": "open-mid front unrounded vowel"
+		},
+		{
+			"pinyin": "i",
+			"ipa": "i",
+			"x-sampa": "i",
+			"desc": "close front unrounded vowel"
+		},
+		{
+			"pinyin": "ou",
+			"ipa": "oʊ",
+			"x-sampa": "oU",
+			"desc": "diphthong"
+		},
+		{
+			"pinyin": "o",
+			"ipa": "ɔ",
+			"x-sampa": "O",
+			"desc": "open-mid back rounded vowel"
+		},
+		{
+			"pinyin": "u",
+			"ipa": "u",
+			"x-sampa": "u",
+			"desc": "close back rounded vowel"
+		},
+		{
+			"pinyin": "yu",
+			"ipa": "y",
+			"x-sampa": "y",
+			"desc": "close front rounded vowel"
+		}
+	],
+	"consonants": [
+		{
+			"pinyin": "f",
+			"ipa": "f",
+			"x-sampa": "f",
+			"desc": "voiceless labiodental fricative"
+		},
+		{
+			"pinyin": "h",
+			"ipa": "h",
+			"x-sampa": "h",
+			"desc": "voiceless glottal fricative"
+		},
+		{
+			"pinyin": "g",
+			"ipa": "k",
+			"x-sampa": "k",
+			"desc": "voiceless velar plosive"
+		},
+		{
+			"pinyin": "k",
+			"ipa": "kʰ",
+			"x-sampa": "k_h",
+			"desc": "aspirated voiceless velar plosive"
+		},
+		{
+			"pinyin": "l",
+			"ipa": "l",
+			"x-sampa": "l",
+			"desc": "alveolar lateral approximant"
+		},
+		{
+			"pinyin": "m",
+			"ipa": "m",
+			"x-sampa": "m",
+			"desc": "bilabial nasal"
+		},
+		{
+			"pinyin": "n",
+			"ipa": "n",
+			"x-sampa": "n",
+			"desc": "alveolar nasal"
+		},
+		{
+			"pinyin": "ng",
+			"ipa": "ŋ",
+			"x-sampa": "N",
+			"desc": "velar nasal"
+		},
+		{
+			"pinyin": "b",
+			"ipa": "p",
+			"x-sampa": "p",
+			"desc": "voiceless bilabial plosive"
+		},
+		{
+			"pinyin": "p",
+			"ipa": "pʰ",
+			"x-sampa": "p_h",
+			"desc": "aspirated voiceless bilabial plosive"
+		},
+		{
+			"pinyin": "s",
+			"ipa": "s",
+			"x-sampa": "s",
+			"desc": "voiceless alveolar fricative"
+		},
+		{
+			"pinyin": "x",
+			"ipa": "ɕ",
+			"x-sampa": "s\\",
+			"desc": "voiceless alveolo-palatal fricative"
+		},
+		{
+			"pinyin": "sh",
+			"ipa": "ʂ",
+			"x-sampa": "s`",
+			"desc": "voiceless retroflex fricative"
+		},
+		{
+			"pinyin": "d",
+			"ipa": "t",
+			"x-sampa": "t",
+			"desc": "voiceless alveolar plosive"
+		},
+		{
+			"pinyin": "t",
+			"ipa": "tʰ",
+			"x-sampa": "t_h",
+			"desc": "aspirated voiceless alveolar plosive"
+		},
+		{
+			"pinyin": "zh",
+			"ipa": "ʈ͡ʂ",
+			"x-sampa": "t`s`",
+			"desc": "voiceless retroflex affricate"
+		},
+		{
+			"pinyin": "ch",
+			"ipa": "ʈ͡ʂʰ",
+			"x-sampa": "t`s`_h",
+			"desc": "aspirated voiceless retroflex affricate"
+		},
+		{
+			"pinyin": "s",
+			"ipa": "t͡s",
+			"x-sampa": "ts",
+			"desc": "voiceless alveolar affricate"
+		},
+		{
+			"pinyin": "j",
+			"ipa": "t͡ɕ",
+			"x-sampa": "ts\\",
+			"desc": "voiceless alveolo-palatal affricate"
+		},
+		{
+			"pinyin": "q",
+			"ipa": "t͡ɕʰ",
+			"x-sampa": "ts\\_h",
+			"desc": "aspirated voiceless alveolo-palatal affricate"
+		},
+		{
+			"pinyin": "c",
+			"ipa": "t͡sʰ",
+			"x-sampa": "ts_h",
+			"desc": "aspirated voiceless alveolar affricate"
+		},
+		{
+			"pinyin": "w",
+			"ipa": "w",
+			"x-sampa": "w",
+			"desc": "labio-velar approximant"
+		},
+		{
+			"pinyin": "r",
+			"ipa": "ʐ",
+			"x-sampa": "z`",
+			"desc": "voiced retroflex fricative"
+		}
+	],
+	"symbols": [
+		{
+			"pinyin": "-",
+			"ipa": ".",
+			"x-sampa": ".",
+			"desc": "syllable boundary"
+		}
+	],
+	"coloured_syllables": [
+		{
+			"pinyin": "er",
+			"ipa": "ɚ",
+			"x-sampa": "@`",
+			"desc": "r-coloured mid central vowel"
+		},
+		{
+			"pinyin": "-r",
+			"ipa": "",
+			"x-sampa": "",
+			"desc": "r-colored syllable"
+		}
+	],
+	"tones": [
+		{
+			"pinyin": "1",
+			"ipa": "",
+			"x-sampa": "",
+			"desc": "high level tone"
+		},
+		{
+			"pinyin": "2",
+			"ipa": "",
+			"x-sampa": "",
+			"desc": "rising tone"
+		},
+		{
+			"pinyin": "3",
+			"ipa": "",
+			"x-sampa": "",
+			"desc": "low (falling-rising) tone"
+		},
+		{
+			"pinyin": "4",
+			"ipa": "",
+			"x-sampa": "",
+			"desc": "falling tone"
+		},
+		{
+			"pinyin": "0",
+			"ipa": "",
+			"x-sampa": "",
+			"desc": "neutral tone"
+		}
+	]
+}

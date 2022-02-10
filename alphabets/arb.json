@@ -1,0 +1,249 @@
+{
+	"code": "arb",
+	"name": "Arabic",
+	"vowels": [
+		{
+			"ipa": "a",
+			"x-sampa": "a",
+			"desc": "open front unrounded vowel"
+		},
+		{
+			"ipa": "aː",
+			"x-sampa": "a:",
+			"desc": "long open front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "ɑˤ",
+			"x-sampa": "A_?\\",
+			"desc": "emphatic open back unrounded\n                            vowel"
+		},
+		{
+			"ipa": "ɑˤː",
+			"x-sampa": "A_?\\:",
+			"desc": "emphatic long open back unrounded\n                                vowel"
+		},
+		{
+			"ipa": "u",
+			"x-sampa": "u",
+			"desc": "close back rounded vowel"
+		},
+		{
+			"ipa": "u:",
+			"x-sampa": "u:",
+			"desc": "long close back rounded vowel"
+		},
+		{
+			"ipa": "uˤ",
+			"x-sampa": "u_?\\",
+			"desc": "emphatic close back rounded\n                            vowel"
+		},
+		{
+			"ipa": "uˤː",
+			"x-sampa": "u_?\\:",
+			"desc": "emphatic long close back rounded\n                                vowel"
+		},
+		{
+			"ipa": "i",
+			"x-sampa": "i",
+			"desc": "close front unrounded vowel"
+		},
+		{
+			"ipa": "iː",
+			"x-sampa": "i:",
+			"desc": "long close front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "iˤ",
+			"x-sampa": "i_?\\",
+			"desc": "emphatic close front unrounded vowel"
+		},
+		{
+			"ipa": "iˤː",
+			"x-sampa": "i_?\\:",
+			"desc": "emphatic long close front unrounded\n                                vowel"
+		},
+		{
+			"ipa": "e",
+			"x-sampa": "e",
+			"desc": "close-mid front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "eː",
+			"x-sampa": "e:",
+			"desc": "long close-mid front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "ɔ",
+			"x-sampa": "O",
+			"desc": "open-mid back rounded vowel"
+		},
+		{
+			"ipa": "ɔː",
+			"x-sampa": "O:",
+			"desc": "long open-mid back rounded\n                            vowel"
+		}
+	],
+	"consonants": [
+		{
+			"ipa": "ʔ",
+			"x-sampa": "?",
+			"desc": "glottal stop"
+		},
+		{
+			"ipa": "ʕ",
+			"x-sampa": "?\\",
+			"desc": "voiced pharyngeal fricative"
+		},
+		{
+			"ipa": "b",
+			"x-sampa": "b",
+			"desc": "voiced bilabial plosive"
+		},
+		{
+			"ipa": "d",
+			"x-sampa": "d",
+			"desc": "voiced alveolar plosive"
+		},
+		{
+			"ipa": "dˤ",
+			"x-sampa": "d_?\\",
+			"desc": "emphatic voiced alveolar\n                            plosive"
+		},
+		{
+			"ipa": "d͡ʒ",
+			"x-sampa": "dZ",
+			"desc": "voiced postalveolar\n                            affricate"
+		},
+		{
+			"ipa": "ð",
+			"x-sampa": "D",
+			"desc": "voiced dental fricative"
+		},
+		{
+			"ipa": "ðˤ",
+			"x-sampa": "D_?\\",
+			"desc": "emphatic voiced dental fricative"
+		},
+		{
+			"ipa": "f",
+			"x-sampa": "f",
+			"desc": "voiceless labiodental\n                            fricative"
+		},
+		{
+			"ipa": "ɡ",
+			"x-sampa": "g",
+			"desc": "voiced velar plosive"
+		},
+		{
+			"ipa": "ɣ",
+			"x-sampa": "G",
+			"desc": "voiced velar fricative"
+		},
+		{
+			"ipa": "h",
+			"x-sampa": "h",
+			"desc": "voiceless glottal fricative"
+		},
+		{
+			"ipa": "j",
+			"x-sampa": "j",
+			"desc": "palatal approximant"
+		},
+		{
+			"ipa": "k",
+			"x-sampa": "k",
+			"desc": "voiceless velar plosive"
+		},
+		{
+			"ipa": "l",
+			"x-sampa": "l",
+			"desc": "alveolar lateral approximant"
+		},
+		{
+			"ipa": "lˠ",
+			"x-sampa": "l_G",
+			"desc": "emphatic alveolar lateral\n                                approximant"
+		},
+		{
+			"ipa": "m",
+			"x-sampa": "m",
+			"desc": "bilabial nasal"
+		},
+		{
+			"ipa": "n",
+			"x-sampa": "n",
+			"desc": "alveolar nasal"
+		},
+		{
+			"ipa": "p",
+			"x-sampa": "p",
+			"desc": "voiceless bilabial plosive"
+		},
+		{
+			"ipa": "q",
+			"x-sampa": "q",
+			"desc": "voiceless uvular plosive"
+		},
+		{
+			"ipa": "r",
+			"x-sampa": "r",
+			"desc": "alveolar trill"
+		},
+		{
+			"ipa": "s",
+			"x-sampa": "s",
+			"desc": "voiceless alveolar fricative"
+		},
+		{
+			"ipa": "sˤ",
+			"x-sampa": "s_?\\",
+			"desc": "emphatic voiceless alveolar\n                                fricative"
+		},
+		{
+			"ipa": "ʃ",
+			"x-sampa": "S",
+			"desc": "voiceless postalveolar\n                            fricative"
+		},
+		{
+			"ipa": "t",
+			"x-sampa": "t",
+			"desc": "voiceless alveolar plosive"
+		},
+		{
+			"ipa": "tˤ",
+			"x-sampa": "t_?\\",
+			"desc": "emphatic voiceless alveolar\n                            plosive"
+		},
+		{
+			"ipa": "θ",
+			"x-sampa": "T",
+			"desc": "voiceless dental fricative"
+		},
+		{
+			"ipa": "v",
+			"x-sampa": "v",
+			"desc": "voiced labiodental fricative"
+		},
+		{
+			"ipa": "w",
+			"x-sampa": "w",
+			"desc": "labio-velar approximant"
+		},
+		{
+			"ipa": "x",
+			"x-sampa": "x",
+			"desc": "voiceless velar fricative"
+		},
+		{
+			"ipa": "ħ",
+			"x-sampa": "X\\",
+			"desc": "voiceless pharyngeal\n                            fricative"
+		},
+		{
+			"ipa": "z",
+			"x-sampa": "z",
+			"desc": "voiced alveolar fricative"
+		}
+	],
+	"symbols": []
+}

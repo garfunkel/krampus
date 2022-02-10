@@ -1,0 +1,204 @@
+{
+	"code": "hi-IN",
+	"name": "Hindi",
+	"vowels": [
+		{
+			"ipa": "ə",
+			"x-sampa": "@_o",
+			"desc": "mid central vowel"
+		},
+		{
+			"ipa": "ə̃",
+			"x-sampa": "@~",
+			"desc": "nasalised mid central vowel"
+		},
+		{
+			"ipa": "a",
+			"x-sampa": "A_o",
+			"desc": "open front unrounded vowel"
+		},
+		{
+			"ipa": "ã",
+			"x-sampa": "A~",
+			"desc": "nasalised open front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "ɪ",
+			"x-sampa": "I_o",
+			"desc": "near-close near-front unrounded\n                                vowel"
+		},
+		{
+			"ipa": "ɪ̃",
+			"x-sampa": "I~",
+			"desc": "nasalised near-close near front unrounded\n                                vowel"
+		},
+		{
+			"ipa": "i",
+			"x-sampa": "i_o",
+			"desc": "close front unrounded vowel"
+		},
+		{
+			"ipa": "ĩ",
+			"x-sampa": "i~",
+			"desc": "nasalised close front unrounded\n                                vowel"
+		},
+		{
+			"ipa": "ʊ",
+			"x-sampa": "U_o",
+			"desc": "near-close near-back rounded\n                            vowel"
+		},
+		{
+			"ipa": "ʊ̃",
+			"x-sampa": "U~",
+			"desc": "nasalised near-close near-back rounded\n                                vowel"
+		},
+		{
+			"ipa": "u",
+			"x-sampa": "u_o",
+			"desc": "close back rounded vowel"
+		},
+		{
+			"ipa": "ũ",
+			"x-sampa": "u~",
+			"desc": "nasalised close back rounded\n                            vowel"
+		},
+		{
+			"ipa": "ɔ",
+			"x-sampa": "O_o",
+			"desc": "open-mid back rounded vowel"
+		},
+		{
+			"ipa": "ɔ̃",
+			"x-sampa": "O~",
+			"desc": "nasalised open-mid back rounded\n                                vowel"
+		},
+		{
+			"ipa": "o",
+			"x-sampa": "o",
+			"desc": "close-mid back rounded vowel"
+		},
+		{
+			"ipa": "õ",
+			"x-sampa": "o~",
+			"desc": "nasalised close-mid back rounded\n                                vowel"
+		},
+		{
+			"ipa": "ɛ",
+			"x-sampa": "E_o",
+			"desc": "open-mid front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "ɛ̃",
+			"x-sampa": "E~",
+			"desc": "nasalised open-mid front unrounded\n                                vowel"
+		},
+		{
+			"ipa": "e",
+			"x-sampa": "e",
+			"desc": "close-mid front unrounded\n                            vowel"
+		},
+		{
+			"ipa": "ẽ",
+			"x-sampa": "e~",
+			"desc": "nasalised close-mid front unrounded\n                                vowel"
+		}
+	],
+	"consonants": [
+		{
+			"ipa": "pʰ",
+			"x-sampa": "p_h",
+			"desc": "voiceless aspirated bilabial\n                            plosive"
+		},
+		{
+			"ipa": "bʱ",
+			"x-sampa": "b_h",
+			"desc": "voiced aspirated bilabial\n                            plosive"
+		},
+		{
+			"ipa": "t̪",
+			"x-sampa": "t_d",
+			"desc": "voiceless dental plosive"
+		},
+		{
+			"ipa": "t̪ʰ",
+			"x-sampa": "t_d_h",
+			"desc": "voiceless aspirated dental\n                            plosive"
+		},
+		{
+			"ipa": "d̪",
+			"x-sampa": "d_d",
+			"desc": "voiced dental plosive"
+		},
+		{
+			"ipa": "d̪ʱ",
+			"x-sampa": "d_d_h",
+			"desc": "voiced aspirated dental\n                            plosive"
+		},
+		{
+			"ipa": "ʈ",
+			"x-sampa": "t`",
+			"desc": "voiceless retroflex plosive"
+		},
+		{
+			"ipa": "ʈʰ",
+			"x-sampa": "t`_h",
+			"desc": "voiceless aspirated retroflex\n                                plosive"
+		},
+		{
+			"ipa": "ɖ",
+			"x-sampa": "d`",
+			"desc": "voiced retroflex plosive"
+		},
+		{
+			"ipa": "ɖʱ",
+			"x-sampa": "d`_h",
+			"desc": "voiced aspirated retroflex\n                            plosive"
+		},
+		{
+			"ipa": "tʃʰ",
+			"x-sampa": "tS_h",
+			"desc": "voiceless aspirated palatal\n                                affricate"
+		},
+		{
+			"ipa": "dʒʱ",
+			"x-sampa": "dZ_h",
+			"desc": "voiced aspirated palatal\n                            affricate"
+		},
+		{
+			"ipa": "kʰ",
+			"x-sampa": "k_h",
+			"desc": "voiceless aspirated velar\n                            plosive"
+		},
+		{
+			"ipa": "ɡʱ",
+			"x-sampa": "g_h",
+			"desc": "voiced aspirated velar\n                            plosive"
+		},
+		{
+			"ipa": "ɳ",
+			"x-sampa": "n`",
+			"desc": "retroflex nasal"
+		},
+		{
+			"ipa": "ɾ",
+			"x-sampa": "4",
+			"desc": "alveolar flap"
+		},
+		{
+			"ipa": "ɽ",
+			"x-sampa": "r`",
+			"desc": "plain retroflex flap"
+		},
+		{
+			"ipa": "ɽʱ",
+			"x-sampa": "r`_h",
+			"desc": "voiced aspirated retroflex\n                            flap"
+		},
+		{
+			"ipa": "ʋ",
+			"x-sampa": "v\\",
+			"desc": "bilabial approximant"
+		}
+	],
+	"symbols": []
+}
